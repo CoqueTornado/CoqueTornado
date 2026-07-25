@@ -1,16 +1,73 @@
 ## Hi there 👋
+<!-- CoqueTornado/CoqueTornado profile README -->
 
-<!--
-**CoqueTornado/CoqueTornado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# Hi, I'm Coque 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Software Engineer · Automation & Power Platform · AI / LLM Integrations · Game Dev
+
+[![Available for freelance & remote](https://img.shields.io/badge/🟢_Available_for-freelance_%26_remote-2ea44f?style=for-the-badge)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](TU_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU_EMAIL)
+
+I build **automations that save people hours**, **AI/LLM integrations that actually work**, and the occasional **game** when I need to scratch a creative itch. I like shipping real things over polishing perfect ones.
+
+</div>
+
+---
+
+## 🎯 What I can do for you
+
+- **Automation / Power Platform / RPA** — Power Automate, Power Apps, scripts and bots that kill the boring, repetitive work. If a human is copy-pasting the same thing every day, I can probably make it disappear.
+- **AI & LLM integrations** — wiring up LLMs, prompts, APIs and agents into real workflows. Not demos: things that run in production.
+- **Full-stack web & desktop** — from a quick internal tool to a shipped app, across the stack.
+- **Game dev** — small, playable, shipped. Because sometimes the best way to learn an engine is to make a game with it.
+
+## 🛠 Tech I work with
+
+**Languages & frameworks**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+
+**Platforms & tools**
+![Power Platform](https://img.shields.io/badge/Power_Platform-742774?style=flat-square&logo=powerautomate&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![AI / LLMs](https://img.shields.io/badge/AI_%2F_LLMs-000000?style=flat-square&logo=openai&logoColor=white)
+
+## 🚀 Featured projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| [**conciertix**](https://github.com/CoqueTornado/conciertix) | Live concert / setlist management app — full-stack showreel | C# / .NET |
+| [**testingLLMs**](https://github.com/CoqueTornado/testingLLMs) | Sandbox for testing LLM integrations, prompts & agents | Python |
+| [**llm-test-plaza**](https://github.com/CoqueTornado/llm-test-plaza) | Playground to compare and stress-test LLM setups | Python |
+| [**paintix**](https://github.com/CoqueTornado/paintix) | Browser-based painting / drawing app | JavaScript |
+| [**florapedia**](https://github.com/CoqueTornado/florapedia) | Plant encyclopedia / catalog web app | JavaScript |
+| [**retroJuego**](https://github.com/CoqueTornado/retroJuego) | Retro game in active development 🕹️ | — |
+| [**sd-webui-forge-faceswaplab**](https://github.com/CoqueTornado/sd-webui-forge-faceswaplab) | Faceswap extension for SD WebUI Forge (fork + extensions) | Python |
+| [**tresenraya**](https://github.com/CoqueTornado/tresenraya) | Tic-tac-toe, rebuilt from Java to React | JavaScript / React |
+
+## 🔭 Right now
+
+- Shipping commits on **retroJuego** 🕹️
+- Breaking (and fixing) **LLM integrations** in `llm-test-plaza`
+- Open to **freelance & remote** work — automation, AI, or full-stack
+
+## 🎸 Off the keyboard
+
+Also known as **Coque Tornado** — yes, I write and play music too. Turns out the same brain that debugs a nasty race condition at 2am also writes songs at 3am. 
+
+---
+
+<div align="center">
+
+**Got a repetitive task, a half-baked AI idea, or a tool that needs building?**
+[Let's talk →](mailto:hola@coquetornado.com)
+
+</div>
