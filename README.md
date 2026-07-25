@@ -1,4 +1,3 @@
-## Hi there 👋
 <!-- CoqueTornado/CoqueTornado profile README -->
 
 <div align="center">
