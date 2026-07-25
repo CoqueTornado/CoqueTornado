@@ -11,19 +11,6 @@
 
 I build **automations that save people hours**, **AI/LLM integrations that actually work**, and the occasional **game** when I need to scratch a creative itch. I like shipping real things over polishing perfect ones.
 
-</div>
-<div align="center">
-
-![](https://raw.githubusercontent.com/CoqueTornado/CoqueTornado/main/profile-summary-card-output/github_dark/0-profile-details.svg)
-
-![](https://raw.githubusercontent.com/CoqueTornado/CoqueTornado/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)
-![](https://raw.githubusercontent.com/CoqueTornado/CoqueTornado/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)
-
-![](https://raw.githubusercontent.com/CoqueTornado/CoqueTornado/main/profile-summary-card-output/github_dark/3-stats.svg)
-![](https://raw.githubusercontent.com/CoqueTornado/CoqueTornado/main/profile-summary-card-output/github_dark/4-productive-time.svg)
-
-</div>
-
 ## 🎯 What I can do for you
 
 - **Automation / Power Platform / RPA** — Power Automate, Power Apps, scripts and bots that kill the boring, repetitive work. If a human is copy-pasting the same thing every day, I can probably make it disappear.
@@ -65,6 +52,19 @@ I build **automations that save people hours**, **AI/LLM integrations that actua
 - Shipping commits on **retroJuego** 🕹️
 - Breaking (and fixing) **LLM integrations** in `llm-test-plaza`
 - Open to **freelance & remote** work — automation, AI, or full-stack
+
+</div>
+<div align="center">
+
+![](https://raw.githubusercontent.com/CoqueTornado/CoqueTornado/main/profile-summary-card-output/github_dark/0-profile-details.svg)
+
+![](https://raw.githubusercontent.com/CoqueTornado/CoqueTornado/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/CoqueTornado/CoqueTornado/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)
+
+![](https://raw.githubusercontent.com/CoqueTornado/CoqueTornado/main/profile-summary-card-output/github_dark/3-stats.svg)
+![](https://raw.githubusercontent.com/CoqueTornado/CoqueTornado/main/profile-summary-card-output/github_dark/4-productive-time.svg)
+
+</div>
 
 ## 🎸 Off the keyboard
 
