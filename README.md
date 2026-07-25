@@ -7,7 +7,7 @@
 ### Software Engineer · Automation & Power Platform · AI / LLM Integrations · Game Dev
 
 [![Available for freelance & remote](https://img.shields.io/badge/🟢_Available_for-freelance_%26_remote-2ea44f?style=for-the-badge)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hola@coquetornado.com)
+[![Email](https://img.shields.io/badge/Email-8b949e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hola@coquetornado.com) 
 
 I build **automations that save people hours**, **AI/LLM integrations that actually work**, and the occasional **game** when I need to scratch a creative itch. I like shipping real things over polishing perfect ones.
 
