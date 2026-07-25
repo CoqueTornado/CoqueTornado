@@ -8,7 +8,6 @@
 ### Software Engineer · Automation & Power Platform · AI / LLM Integrations · Game Dev
 
 [![Available for freelance & remote](https://img.shields.io/badge/🟢_Available_for-freelance_%26_remote-2ea44f?style=for-the-badge)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](TU_LINKEDIN)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU_EMAIL)
 
 I build **automations that save people hours**, **AI/LLM integrations that actually work**, and the occasional **game** when I need to scratch a creative itch. I like shipping real things over polishing perfect ones.
