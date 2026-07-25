@@ -14,8 +14,13 @@ I build **automations that save people hours**, **AI/LLM integrations that actua
 </div>
 <div align="center">
 
-![Coque's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoqueTornado&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CoqueTornado&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9)
+![](https://raw.githubusercontent.com/CoqueTornado/CoqueTornado/main/profile-summary-card-output/github_dark/0-profile-details.svg)
+
+![](https://raw.githubusercontent.com/CoqueTornado/CoqueTornado/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/CoqueTornado/CoqueTornado/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)
+
+![](https://raw.githubusercontent.com/CoqueTornado/CoqueTornado/main/profile-summary-card-output/github_dark/3-stats.svg)
+![](https://raw.githubusercontent.com/CoqueTornado/CoqueTornado/main/profile-summary-card-output/github_dark/4-productive-time.svg)
 
 </div>
 
