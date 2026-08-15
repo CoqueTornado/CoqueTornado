@@ -38,6 +38,7 @@ I build **automations that save people hours**, **AI/LLM integrations that actua
 
 | Project | What it is | Stack |
 |---|---|---|
+| [**wolfiVideogame**](https://github.com/CoqueTornado/wolfiVideogame) | Original 2D retro action-adventure game 🐺🕹️ | AS3 / Flash |
 | [**conciertix**](https://github.com/CoqueTornado/conciertix) | Live concert / setlist management app — full-stack showreel | C# / .NET |
 | [**testingLLMs**](https://github.com/CoqueTornado/testingLLMs) | Sandbox for testing LLM integrations, prompts & agents | Python |
 | [**llm-test-plaza**](https://github.com/CoqueTornado/llm-test-plaza) | Playground to compare and stress-test LLM setups | Python |
