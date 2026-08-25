@@ -39,6 +39,7 @@ I build **automations that save people hours**, **AI/LLM integrations that actua
 | Project | What it is | Stack |
 | :--- | :--- | :---: |
 | **[conciertix](https://github.com/CoqueTornado/conciertix)** | Live concert / setlist management app — full-stack showreel | C# / .NET |
+| **[wolfiVideogame](https://github.com/CoqueTornado/wolfiVideogame)** | Original 2D action-adventure game — Commercially licensed & acquired by a US publisher 🇺🇸 🎮 | Shipped IP · Game Design |
 | **[power-automate-invoice-extractor](https://github.com/CoqueTornado/power-automate-invoice-extractor)** | Automated PDF/invoice data extraction & ERP/database ingestion pipeline | Power Automate / RPA |
 | **[llm-test-plaza](https://github.com/CoqueTornado/llm-test-plaza)** | Playground to compare and stress-test LLM setups & agents | Python |
 | **[paintix](https://github.com/CoqueTornado/paintix)** | Interactive browser drawing tool built with native HTML5 Canvas API | JavaScript / Canvas |
