@@ -47,9 +47,9 @@ I build **automations that save people hours**, **AI/LLM integrations that actua
 
 ## 🔭 Right now
 
-- Shipping commits on **retroJuego** 🕹️
-- Breaking (and fixing) **Emérita**
-- Open to **freelance & remote** work — automation, AI, or full-stack
+* 💼 **Automating business processes** and building **custom web solutions** for SMBs / small businesses.
+* 🕹️ Polishing gameplay mechanics & canvas rendering in **Emérita**.
+* 🤝 Open to **freelance & full-time remote roles** — Full-Stack, Automation, or AI integrations.
 
 </div>
 <div align="center">
