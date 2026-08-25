@@ -37,13 +37,14 @@ I build **automations that save people hours**, **AI/LLM integrations that actua
 ## 🚀 Featured projects
 
 | Project | What it is | Stack |
-|---|---|---|
-| [**conciertix**](https://github.com/CoqueTornado/conciertix) | Live concert / setlist management app — full-stack showreel | C# / .NET | 
+| :--- | :--- | :---: |
+| **[conciertix](https://github.com/CoqueTornado/conciertix)** | Live concert / setlist management app — full-stack showreel | C# / .NET |
 | **[power-automate-invoice-extractor](https://github.com/CoqueTornado/power-automate-invoice-extractor)** | Automated PDF/invoice data extraction & ERP/database ingestion pipeline | Power Automate / RPA |
-| [**llm-test-plaza**](https://github.com/CoqueTornado/llm-test-plaza) | Playground to compare and stress-test LLM setups | Python | 
-| [**retroJuego**](https://github.com/CoqueTornado/retroJuego) | Retro game in active development 🕹️ |Three.js / Javascript |
-| [**Emérita, the game**](https://github.com/CoqueTornado/EmeritaTheGame) | Platform 2D retro game | Three.js / Javascript |
-| [**florapedia**](https://github.com/CoqueTornado/florapedia) | Plant encyclopedia / catalog web app | JavaScript |
+| **[llm-test-plaza](https://github.com/CoqueTornado/llm-test-plaza)** | Playground to compare and stress-test LLM setups & agents | Python |
+| **[paintix](https://github.com/CoqueTornado/paintix)** | Interactive browser drawing tool built with native HTML5 Canvas API | JavaScript / Canvas |
+| **[retroJuego](https://github.com/CoqueTornado/retroJuego)** | Retro arcade collection — 7 playable mini-games with Canvas & Three.js 🕹️ | Three.js / JavaScript |
+| **[florapedia](https://github.com/CoqueTornado/florapedia)** | Interactive plant encyclopedia / catalog web app | JavaScript |
+| **[Emérita, the game](https://github.com/CoqueTornado/EmeritaTheGame)** | Platform 2D retro game exploring web canvas rendering | Three.js / JavaScript |
 
 ## 🔭 Right now
 
