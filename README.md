@@ -35,12 +35,12 @@ I build **automations that save people hours**, **AI/LLM integrations that actua
 ![AI / LLMs](https://img.shields.io/badge/AI_%2F_LLMs-000000?style=flat-square&logo=openai&logoColor=white)
 
 ## 🚀 Featured projects
-
 | Project | What it is | Stack |
 | :--- | :--- | :---: |
 | **[conciertix](https://github.com/CoqueTornado/conciertix)** | Live concert / setlist management app — full-stack showreel | C# / .NET |
 | **[wolfiVideogame](https://github.com/CoqueTornado/wolfiVideogame)** | Original 2D action-adventure game — Commercially licensed & acquired by a US publisher 🇺🇸 🎮 | Shipped IP · Game Design |
 | **[power-automate-invoice-extractor](https://github.com/CoqueTornado/power-automate-invoice-extractor)** | Automated PDF/invoice data extraction & ERP/database ingestion pipeline | Power Automate / RPA |
+| **[invoice-console](https://github.com/CoqueTornado/invoice-console)** | Invoice supervision & validation dashboard for automated extraction pipelines | Angular |
 | **[llm-test-plaza](https://github.com/CoqueTornado/llm-test-plaza)** | Playground to compare and stress-test LLM setups & agents | Python |
 | **[paintix](https://github.com/CoqueTornado/paintix)** | Interactive browser drawing tool built with native HTML5 Canvas API | JavaScript & React |
 | **[retroJuego](https://github.com/CoqueTornado/retroJuego)** | Retro arcade collection — 7 playable mini-games with Canvas & Three.js 🕹️ | Three.js / JavaScript |
