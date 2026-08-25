@@ -38,13 +38,12 @@ I build **automations that save people hours**, **AI/LLM integrations that actua
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**conciertix**](https://github.com/CoqueTornado/conciertix) | Live concert / setlist management app — full-stack showreel | C# / .NET |
-| [**testingLLMs**](https://github.com/CoqueTornado/testingLLMs) | Sandbox for testing LLM integrations, prompts & agents | Python |
+| [**conciertix**](https://github.com/CoqueTornado/conciertix) | Live concert / setlist management app — full-stack showreel | C# / .NET | 
+| [**sd-webui-forge-faceswaplab**](https://github.com/CoqueTornado/sd-webui-forge-faceswaplab) | Faceswap extension for SD WebUI Forge (fork + extensions) | Python | 
 | [**llm-test-plaza**](https://github.com/CoqueTornado/llm-test-plaza) | Playground to compare and stress-test LLM setups | Python | 
-| [**florapedia**](https://github.com/CoqueTornado/florapedia) | Plant encyclopedia / catalog web app | JavaScript |
 | [**retroJuego**](https://github.com/CoqueTornado/retroJuego) | Retro game in active development 🕹️ |Three.js / Javascript |
 | [**Emérita, the game**](https://github.com/CoqueTornado/EmeritaTheGame) | Platform 2D retro game | Three.js / Javascript |
-| [**sd-webui-forge-faceswaplab**](https://github.com/CoqueTornado/sd-webui-forge-faceswaplab) | Faceswap extension for SD WebUI Forge (fork + extensions) | Python | 
+| [**florapedia**](https://github.com/CoqueTornado/florapedia) | Plant encyclopedia / catalog web app | JavaScript |
 
 ## 🔭 Right now
 
