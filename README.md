@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Hi, I'm Coque 👋
+# Hi, I'm Jorge 👋
 
 ### Software Engineer · Automation & Power Platform · AI / LLM Integrations · Game Dev
 
