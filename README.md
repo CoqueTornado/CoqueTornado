@@ -38,20 +38,18 @@ I build **automations that save people hours**, **AI/LLM integrations that actua
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**retroJuego**](https://github.com/CoqueTornado/retroJuego) | Retro game in active development 🕹️ |Three.js / Javascript |
-| [**Emérita, the game**](https://github.com/CoqueTornado/EmeritaTheGame) | Platform 2D retro game | Three.js / Javascript |
 | [**conciertix**](https://github.com/CoqueTornado/conciertix) | Live concert / setlist management app — full-stack showreel | C# / .NET |
 | [**testingLLMs**](https://github.com/CoqueTornado/testingLLMs) | Sandbox for testing LLM integrations, prompts & agents | Python |
-| [**llm-test-plaza**](https://github.com/CoqueTornado/llm-test-plaza) | Playground to compare and stress-test LLM setups | Python |
-| [**paintix**](https://github.com/CoqueTornado/paintix) | Browser-based painting / drawing app | JavaScript |
+| [**llm-test-plaza**](https://github.com/CoqueTornado/llm-test-plaza) | Playground to compare and stress-test LLM setups | Python | 
 | [**florapedia**](https://github.com/CoqueTornado/florapedia) | Plant encyclopedia / catalog web app | JavaScript |
-| [**sd-webui-forge-faceswaplab**](https://github.com/CoqueTornado/sd-webui-forge-faceswaplab) | Faceswap extension for SD WebUI Forge (fork + extensions) | Python |
-| [**tresenraya**](https://github.com/CoqueTornado/tresenraya) | Tic-tac-toe, rebuilt from Java to React | JavaScript / React |
+| [**retroJuego**](https://github.com/CoqueTornado/retroJuego) | Retro game in active development 🕹️ |Three.js / Javascript |
+| [**Emérita, the game**](https://github.com/CoqueTornado/EmeritaTheGame) | Platform 2D retro game | Three.js / Javascript |
+| [**sd-webui-forge-faceswaplab**](https://github.com/CoqueTornado/sd-webui-forge-faceswaplab) | Faceswap extension for SD WebUI Forge (fork + extensions) | Python | 
 
 ## 🔭 Right now
 
 - Shipping commits on **retroJuego** 🕹️
-- Breaking (and fixing) **LLM integrations** in `llm-test-plaza`
+- Breaking (and fixing) **Emérita**
 - Open to **freelance & remote** work — automation, AI, or full-stack
 
 </div>
