@@ -1,81 +1,68 @@
-<!-- CoqueTornado/CoqueTornado profile README -->
-
-<div align="center">
-
 # Hi, I'm Jorge 👋
 
-### Software Engineer · Automation & Power Platform · AI / LLM Integrations · Game Dev
+**Game Developer & QA Tester** · Computer Engineer (5-year degree, Master's level) · Automation & AI integrations
 
-[![Available for freelance & remote](https://img.shields.io/badge/🟢_Available_for-freelance_%26_remote-2ea44f?style=for-the-badge)](#)
-[![Email](https://img.shields.io/badge/Email-8b949e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hola@coquetornado.com) 
+🎮 Games shipped for brands, studios and players · 🧪 1,500+ automated tests in my current game · 🌍 Remote / freelance · 📧 [info@jorgesegovia.com](mailto:info@jorgesegovia.com)
 
-I build **automations that save people hours**, **AI/LLM integrations that actually work**, and the occasional **game** when I need to scratch a creative itch. I like shipping real things over polishing perfect ones.
+▶️ **[Play the Emérita demo on itch.io](https://coquetornado.itch.io/emerita-the-celtic-resistance)**
 
-## 🎯 What I can do for you
+I build small, polished games — and I try to break them before players do. My background in software engineering and process automation means I don't just write gameplay: I test it, automate the checks and ship stable builds.
 
-- **Automation / Power Platform / RPA** — Power Automate, Power Apps, scripts and bots that kill the boring, repetitive work. If a human is copy-pasting the same thing every day, I can probably make it disappear.
-- **AI & LLM integrations** — wiring up LLMs, prompts, APIs and agents into real workflows. Not demos: things that run in production.
-- **Full-stack web & desktop** — from a quick internal tool to a shipped app, across the stack.
-- **Game dev** — small, playable, shipped. Because sometimes the best way to learn an engine is to make a game with it.
+## 🏆 Track record
 
-## 🛠 Tech I work with
+- Published **Emérita** on itch.io (5 languages; keyboard, gamepad and touch) and earned the **AuraQuantic BPM Level 3** certification.
+- Built educational mini-games for children in Mexico, released on **Android & iOS tablets** at **Indra**.
+- Programmed a branded platformer and **15 mini-games** for the Choco Flakes / **Cuétara** website.
+- Sold my first game, *Wolfi Trip*, a 2D platformer, to **Addictive Games (US)**.
 
-**Languages & frameworks**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+Also: front-end for **Orange** (Vue.js), web development in an international team in the UK (**Prodirect**), game-engine architecture (**Zed**), F2P multiplayer (**Freedom Factory**) and scientific computing at the **University of Edinburgh (EPCC)**.
 
-**Platforms & tools**
-![Power Platform](https://img.shields.io/badge/Power_Platform-742774?style=flat-square&logo=powerautomate&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![AI / LLMs](https://img.shields.io/badge/AI_%2F_LLMs-000000?style=flat-square&logo=openai&logoColor=white)
+## 🎮 Game Dev
+
+- Gameplay loops, state machines, 2D physics and collisions (AABB / tiles), bosses with multiple phases
+- Level design, difficulty curves, progression and balancing
+- Localization (5 languages), multi-input (keyboard, gamepad, touch), builds for Poki, CrazyGames and itch.io
+- Original music for my own games
+
+## 🧪 QA
+
+- Functional, regression and exploratory testing across levels and builds
+- Bug reports with repro steps, expected vs. actual results, severity and video/screenshot evidence
+- Automated checks: **1,500+ tests** (logic, data, i18n, balance) guarding every build of *Mochi Guardians*
+- SQL, REST APIs (Postman), JSON and logs to track down root causes
+
+## ⚙️ Automation & AI (bonus)
+
+- Power Automate / RPA, n8n, Python and JavaScript tooling — e.g. an email-to-database invoice extraction pipeline
+- LLM integrations and side-by-side benchmarking of local models
+
+## 🛠 Tech
+
+**Game dev:** JavaScript · TypeScript · Three.js · Phaser 3 · HTML5 Canvas · C# / Unity · ActionScript 3
+**QA:** Manual, regression & exploratory testing · Bug reporting · Jira · Postman · SQL
+**Automation & other:** Python · Power Automate · n8n · AuraQuantic BPM · React · Angular · C# / .NET · Git
 
 ## 🚀 Featured projects
-| Project | What it is | Stack |
-| :--- | :--- | :---: |
 
-| **[Emérita, The Celtic Resistance](https://github.com/CoqueTornado/EmeritaTheGame)** | Platform 2D retro game exploring web canvas rendering | Three.js / JavaScript |
-| **[conciertix](https://github.com/CoqueTornado/conciertix)** | Live concert / setlist management app — full-stack showreel | C# / .NET |
-| **[wolfiVideogame](https://github.com/CoqueTornado/wolfiVideogame)** | Original 2D action-adventure game — Commercially licensed & acquired by a US publisher 🇺🇸 🎮 | Shipped IP · Game Design |
-| **[power-automate-invoice-extractor](https://github.com/CoqueTornado/power-automate-invoice-extractor)** | Automated PDF/invoice data extraction & ERP/database ingestion pipeline | Power Automate / RPA |
-| **[invoice-console](https://github.com/CoqueTornado/invoice-console)** | Invoice supervision & validation dashboard for automated extraction pipelines | Angular |
-| **[llm-test-plaza](https://github.com/CoqueTornado/llm-test-plaza)** | Playground to compare and stress-test LLM setups & agents | Python |
-| **[paintix](https://github.com/CoqueTornado/paintix)** | Interactive browser drawing tool built with native HTML5 Canvas API | JavaScript & React |
-| **[retroJuego](https://github.com/CoqueTornado/retroJuego)** | Retro arcade collection — 7 playable mini-games with Canvas & Three.js 🕹️ | Three.js / JavaScript |
-| **[florapedia](https://github.com/CoqueTornado/florapedia)** | Interactive plant encyclopedia / catalog web app | JavaScript & React |
+| Project | What it is | Stack |
+|---|---|---|
+| **[Emérita – The Celtic Resistance](https://coquetornado.itch.io/emerita-the-celtic-resistance)** · [early repo](https://github.com/CoqueTornado/EmeritaTheGame) | 10-level pixel-art action platformer set in Roman Mérida. Public 3-level demo, 5 languages, original music | Three.js / JavaScript |
+| **Mochi Guardians** *(in development)* | Lane-strategy game: 66 creatures, 12 levels, roguelike mode, 1,500+ automated tests | TypeScript / Phaser 3 / Vite |
+| [wolfiVideogame](https://github.com/CoqueTornado/wolfiVideogame) | *Wolfi Trip* — 2D platformer sold to Addictive Games (US) 🇺🇸 | HTML5 · Game Design |
+| [retroJuego](https://github.com/CoqueTornado/retroJuego) | Retro arcade collection — 7 playable mini-games 🕹️ | Three.js / JavaScript |
+| [power-automate-invoice-extractor](https://github.com/CoqueTornado/power-automate-invoice-extractor) | Email attachments → invoice data extraction → database logging | Power Automate / TypeScript |
+| [invoice-console](https://github.com/CoqueTornado/invoice-console) | Dashboard to supervise and validate the automated invoice pipeline | Angular |
+| [llm-test-plaza](https://github.com/CoqueTornado/llm-test-plaza) | Playground to compare and stress-test local LLM setups & agents | Python / HTML |
+| [conciertix](https://github.com/CoqueTornado/conciertix) | Concert & setlist management app — full-stack showreel | C# / .NET |
+| [paintix](https://github.com/CoqueTornado/paintix) | Browser drawing tool built on the native Canvas API | JavaScript / React |
+| [florapedia](https://github.com/CoqueTornado/florapedia) | Interactive plant encyclopedia web app | JavaScript / React |
 
 ## 🔭 Right now
 
-* 💼 **Automating business processes** and building **custom web solutions** for SMBs / small businesses.
-* 🕹️ Polishing gameplay mechanics & canvas rendering in **Emérita**.
-* 🤝 Open to **freelance & full-time remote roles** — Full-Stack, Automation, or AI integrations.
-
-</div>
-<div align="center">
-
-![](https://raw.githubusercontent.com/CoqueTornado/CoqueTornado/main/profile-summary-card-output/github_dark/0-profile-details.svg)
-
-![](https://raw.githubusercontent.com/CoqueTornado/CoqueTornado/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)
-![](https://raw.githubusercontent.com/CoqueTornado/CoqueTornado/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)
-
-![](https://raw.githubusercontent.com/CoqueTornado/CoqueTornado/main/profile-summary-card-output/github_dark/3-stats.svg)
-![](https://raw.githubusercontent.com/CoqueTornado/CoqueTornado/main/profile-summary-card-output/github_dark/4-productive-time.svg)
-
-</div>
+- 🕹️ Showcasing *Emérita* and finishing *Mochi Guardians* for Poki / CrazyGames
+- 🎮 Open to **Game Dev**, **QA (manual + automation)** and **playtesting** roles — remote or freelance
+- 💼 Also available for automation and AI-integration projects for small businesses
 
 ## 🎸 Off the keyboard
 
-Also known as **Coque Tornado** — yes, I write and play music too. Turns out the same brain that debugs a nasty race condition at 2am also writes songs at 3am. 
-
----
-
-<div align="center">
-
-**Got a repetitive task, a half-baked AI idea, or a tool that needs building?**
-[Let's talk →](mailto:hola@coquetornado.com)
-
-</div>
+Also known as **Coque Tornado** — I write and play my own music, including the soundtracks of my games. Turns out the same brain that debugs a nasty race condition at 2 a.m. also writes songs at 3 a.m.
