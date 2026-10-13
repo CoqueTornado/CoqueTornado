@@ -46,7 +46,7 @@ Also: front-end for **Orange** (Vue.js), web development in an international tea
 
 | Project | What it is | Stack |
 |---|---|---|
-| **[Emérita – The Celtic Resistance](https://coquetornado.itch.io/emerita-the-celtic-resistance)** · [early repo](https://github.com/CoqueTornado/EmeritaTheGame) | 10-level pixel-art action platformer set in Roman Mérida. Public 3-level demo, 5 languages, original music | Three.js / JavaScript |
+| **[Emérita – The Celtic Resistance](https://coquetornado.itch.io/emerita-the-celtic-resistance)** · [Readme](https://github.com/CoqueTornado/EmeritaTheGame) | 10-level pixel-art action platformer set in Roman Mérida. Public 3-level demo, 5 languages, original music | Three.js / JavaScript |
 | **Mochi Guardians** *(in development)* | Lane-strategy game: 66 creatures, 12 levels, roguelike mode, 1,500+ automated tests | TypeScript / Phaser 3 / Vite |
 | [wolfiVideogame](https://github.com/CoqueTornado/wolfiVideogame) | *Wolfi Trip* — 2D platformer sold to Addictive Games (US) 🇺🇸 | HTML5 · Game Design |
 | [retroJuego](https://github.com/CoqueTornado/retroJuego) | Retro arcade collection — 7 playable mini-games 🕹️ | Three.js / JavaScript |
